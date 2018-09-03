@@ -1,1 +1,2 @@
 inside file3.txt
+check if multiple merge has any side effects
