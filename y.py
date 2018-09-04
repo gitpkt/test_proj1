@@ -1,4 +1,6 @@
-from x import print_with_title
+import x
+from importlib import reload
+reload(x)
 
 
 def rev_str(s):
