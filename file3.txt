@@ -1,3 +1,0 @@
-inside file3.txt
-verifying from branch "test"
-check if multiple merge has any side effects
